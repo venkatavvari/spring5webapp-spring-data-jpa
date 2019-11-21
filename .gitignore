@@ -37,7 +37,10 @@ local.properties
 .factorypath
 /src/main/resources/rebel.xml
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> upstream/spring-data-jpa
 # External tool builders
 .externalToolBuilders/**
 
